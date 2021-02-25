@@ -40,5 +40,5 @@ $(button_my_button).click(function(){
 });
 var button_my_button = "#btnn";
 $(button_my_button).click(function(){
-	window.location.href='gal.html';
+	window.location.href='index.html';
    });
